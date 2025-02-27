@@ -30,8 +30,6 @@ C4Context
 
     UpdateLayoutConfig($c4ShapeInRow="3", $c4BoundaryInRow="1")
 
-
-
 ```
 
 <h2>C4 Container Diagram:</h2> 

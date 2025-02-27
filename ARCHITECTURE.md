@@ -9,7 +9,7 @@
 ```mermaid
 
 C4Context
-    title Movie Watchlist App - System Context
+    title Movie Watchlist - System Context
     Person(user, "User", "A person who uses the app to manage their movie watchlist.")
     System(movieWatchlistApp, "Movie Watchlist App", "A platform to track, organize, and discover movies and TV shows.")
     System_Ext(tmdbAPI, "TMDb API", "Provides movie data like ratings, trailers, and cast information.")
@@ -37,7 +37,7 @@ C4Context
 ```mermaid
 
 C4Container
-    title Movie Watchlist App - Container Diagram
+    title Movie Watchlist - Container Diagram
     System_Boundary(app, "Movie Watchlist App") {
         Container(webApp, "Web Application", "React", "Frontend interface where users interact with the app.")
         Container(api, "API Server", "Node.js", "Handles backend logic, user authentication, and communication with external services.")
@@ -67,7 +67,7 @@ C4Container
 ```mermaid
 
 C4Component
-    title Movie Watchlist App - Component Diagram
+    title Movie Watchlist - Component Diagram
 
     Container(webApp, "Web Application", "React", "Frontend interface where users interact with the app.") 
     Container(api, "API Server", "Node.js", "Handles backend logic.") 
@@ -99,7 +99,7 @@ C4Component
 ```mermaid
 
 C4Deployment
-    title Movie Watchlist App - Deployment Diagram
+    title Movie Watchlist - Deployment Diagram
     
     Node(webServer, "Web Server", "Hosts the React application") {
         Container(webApp, "Web Application", "React", "Frontend interface where users interact with the app.")

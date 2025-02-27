@@ -7,6 +7,7 @@
 <h2>C4 Context Diagram:</h2>
 
 ```mermaid
+
 C4Context
     title Movie Watchlist App - System Context
     Person(user, "User", "A person who uses the app to manage their movie watchlist.")
@@ -36,6 +37,7 @@ C4Context
 <h2>C4 Container Diagram:</h2> 
 
 ```mermaid
+
 C4Container
     title Movie Watchlist App - Container Diagram
     System_Boundary(app, "Movie Watchlist App") {
@@ -65,6 +67,7 @@ C4Container
 <h2>C4 Component Diagram: </h2>
 
 ```mermaid
+
 C4Component
     title Movie Watchlist App - Component Diagram
 

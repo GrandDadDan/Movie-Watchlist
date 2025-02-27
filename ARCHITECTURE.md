@@ -49,7 +49,7 @@ C4Container
     UpdateElementStyle(webApp, $fontColor="white", $bgColor="#3498db", $borderColor="#2980b9")
     UpdateElementStyle(api, $fontColor="white", $bgColor="#e74c3c", $borderColor="#c0392b")
     UpdateElementStyle(database, $fontColor="white", $bgColor="#9b59b6", $borderColor="#8e44ad")
-    UpdateElementStyle(tmdbAPI, $fontColor="black", $bgColor="#f1c40f", $borderColor="#f39c12")
+    UpdateElementStyle(tmdbAPI, $fontColor="white", $bgColor="#f1c40f", $borderColor="#f39c12")
 
     UpdateRelStyle(webApp, api, $textColor="grey", $lineColor="#1abc9c", $offsetY="-10")
     UpdateRelStyle(api, database, $textColor="grey", $lineColor="#f39c12", $offsetY="-10")

@@ -178,60 +178,41 @@
   - Network errors must display a user-friendly message.  
   - Users must receive an email notification if their account is locked due to multiple failed login attempts.  
 
-# 3. Non-Functional Requirements – Movie Watchlist App  
+# 3. Non-Functional Requirements – Movie Watchlist App   
 
 ## 1️⃣ Usability  
-- **The interface shall comply with WCAG 2.1 accessibility standards** to ensure users with disabilities can navigate the system.  
-- **The system shall have an intuitive and responsive UI**, allowing users to interact seamlessly on both desktop and mobile devices.  
-- **Tooltips and error messages shall be provided** to help users understand system functionality and troubleshoot issues.  
+- **The system shall provide a dark mode and light mode option** to enhance the user experience and reduce eye strain.  
+- **The interface shall comply with WCAG 2.1 accessibility standards**, ensuring support for screen readers and keyboard navigation.  
 
 ---
 
 ## 2️⃣ Deployability  
-- **The system shall be deployable on cloud platforms such as Firebase Hosting** for seamless scalability.  
-- **The frontend shall be deployable on static hosting services** like Vercel or Netlify for cost-effective distribution.  
-- **The backend shall support deployment on AWS, Heroku, or DigitalOcean**, providing flexibility for future scalability.  
+- **The system shall be deployable on cloud platforms such as Firebase Hosting** for cost-effective and scalable deployment.  
+- **The backend shall support deployment on AWS and Heroku**, allowing flexibility in hosting providers.  
 
 ---
 
 ## 3️⃣ Maintainability  
-- **The system documentation shall include an API guide** to assist developers with future integrations and feature expansions.  
-- **The codebase shall follow industry best practices**, including modular structure and proper version control using Git.  
-- **Automated testing shall be implemented** to detect and prevent breaking changes before deployment.  
+- **The codebase shall be modular and follow industry best practices**, ensuring ease of future enhancements and debugging.  
+- **The system shall include automated unit and integration tests**, guaranteeing the stability of core functionalities.  
 
 ---
 
 ## 4️⃣ Scalability  
-- **The system shall support up to 1,000 concurrent users during peak hours** without performance degradation.  
-- **Database queries shall be optimized to handle increasing user data efficiently**, ensuring fast retrieval of watchlists and movie details.  
-- **The application architecture shall be designed to scale horizontally**, allowing additional backend instances to handle load spikes.  
+- **The system shall support up to 1,000 concurrent users** without experiencing significant performance degradation.  
+- **Database queries shall be optimized using indexing and caching techniques** to improve response times under high load.  
 
 ---
 
 ## 5️⃣ Security  
-- **All user authentication and sensitive data shall be encrypted using AES-256** to protect against unauthorized access.  
-- **User authentication shall be managed through Firebase Authentication**, ensuring secure login with email/password and OAuth providers.  
-- **The system shall enforce session expiration and automatic logout** after 30 minutes of inactivity to prevent unauthorized access.  
+- **All sensitive user data, including passwords, shall be encrypted using AES-256** to prevent unauthorized access.  
+- **The system shall enforce role-based access control (RBAC)** to restrict administrative functions from regular users.  
 
 ---
 
 ## 6️⃣ Performance  
-- **Search results shall load within 2 seconds** for an optimal user experience.  
-- **API response times shall be kept under 500ms** for movie data retrieval and watchlist management.  
-- **The system shall cache frequently accessed movie data** to reduce redundant API calls and improve performance.  
+- **Search results shall be displayed within 2 seconds** for an optimal user experience.  
+- **The API shall respond to movie data requests within 500 milliseconds** to maintain smooth interaction between frontend and backend.  
 
----
-
-## 7️⃣ Reliability  
-- **The system shall have a 99.9% uptime guarantee**, ensuring minimal downtime for users.  
-- **Automated backups shall be performed daily** to prevent data loss in case of system failure.  
-- **Error handling mechanisms shall be implemented** to recover from unexpected failures gracefully.  
-
----
-
-## 8️⃣ Compliance  
-- **The system shall comply with GDPR regulations**, ensuring user data privacy and transparency.  
-- **Users shall have the ability to delete their account and personal data** upon request in compliance with data protection laws.  
-- **Logging and monitoring shall be enabled** to track system activity and detect security threats.  
 
 

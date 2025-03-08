@@ -35,6 +35,4 @@ Another issue was **managing feature requests**. Content curators wanted a **mov
 ---
 
 ## 🔥 Conclusion  
-Balancing stakeholder needs is **not just about meeting technical requirements**—it’s about **compromising, prioritizing, and making realistic commitments**. I learned that **not all requests can be accommodated immediately**, and it’s crucial to communicate **what is feasible, what isn’t, and why**.  
-
-While this project challenged my decision-making skills, it also reinforced the **importance of trade-offs in software development**. Moving forward, I will focus on **refining priorities, validating feasibility earlier, and ensuring alignment between technical capabilities and stakeholder expectations**.  
+Balancing stakeholder needs is **not just about meeting technical requirements**—it’s about **compromising, prioritizing, and making realistic commitments**. I learned that **not all requests can be accommodated immediately**, and it’s crucial to communicate **what is feasible, what isn’t, and why**. 

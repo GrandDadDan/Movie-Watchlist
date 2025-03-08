@@ -188,7 +188,6 @@
 
 ## 2️⃣ Deployability  
 - **The system shall be deployable on cloud platforms such as Firebase Hosting** for cost-effective and scalable deployment.  
-- **The backend shall support deployment on AWS and Heroku**, allowing flexibility in hosting providers.  
 
 ---
 
@@ -199,7 +198,7 @@
 ---
 
 ## 4️⃣ Scalability  
-- **The system shall support up to 1,000 concurrent users** without experiencing significant performance degradation.  
+- **It is possible for the system to support up to 1,000 concurrent users** without experiencing significant performance degradation.  
 - **Database queries shall be optimized using indexing and caching techniques** to improve response times under high load.  
 
 ---
@@ -212,7 +211,7 @@
 
 ## 6️⃣ Performance  
 - **Search results shall be displayed within 2 seconds** for an optimal user experience.  
-- **The API shall respond to movie data requests within 500 milliseconds** to maintain smooth interaction between frontend and backend.  
+- **The aim is for the API shall respond to movie data requests within 500 milliseconds** to maintain smooth interaction between frontend and backend.  
 
 
 

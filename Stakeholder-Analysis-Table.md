@@ -6,7 +6,7 @@
 |-----------------------|----------------------------------------------------|--------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------|
 | 🎭 **End User**        | Uses the app to track and organize movies         | Easy movie tracking, personalized recommendations      | Losing track of movies, no cross-platform sync   | Increased user retention, high app engagement                 |
 | 🔐 **Administrator**   | Manages backend, user data, and system updates    | System stability, security, and user support           | Handling user issues manually, downtime concerns | High system uptime, low support requests                      |
-| 🔍 **Content Curator** | Suggests trending movies and updates recommendations| Relevant and accurate movie recommendations             | Lack of customization, outdated movie suggestions | Increased user interaction with recommendations               |
+| 🔍 **Content Creator** | Suggests trending movies and updates recommendations| Relevant and accurate movie recommendations             | Lack of customization, outdated movie suggestions | Increased user interaction with recommendations               |
 | 🔌 **Third-Party API Provider (TMDb)** | Provides movie details (ratings, cast, trailers) | API stability, accurate data retrieval                   | High API call load, rate limits exceeded           | Minimal API downtime, fast response times                    |
 | 💾 **Database Provider (Firebase)** | Stores user data, watchlists, and authentication info | Secure and efficient data storage                      | Slow database queries, security risks            | Fast data retrieval, zero security breaches                  |
 | 🏗️ **Developers**      | Build and maintain the system                      | Code maintainability, API integration                  | Debugging performance issues, unclear requirements | Clean code, fast issue resolution                            |
@@ -31,12 +31,10 @@
 ## 📌 3. Non-Functional Requirements
 
 ### 🖥️ Usability  
-- **The system shall provide a dark mode and light mode option** for user comfort and preference.  
-- **The system shall comply with WCAG 2.1 accessibility standards** to ensure it is usable by people with disabilities.  
+- **The system shall provide a dark mode and light mode option** for user comfort and preference.   
 
 ### ☁️ Deployability  
-- **The system shall be deployable on cloud platforms such as Firebase Hosting** to ensure scalable hosting.  
-- **The backend shall support deployment on AWS, Heroku, or DigitalOcean** to ensure flexibility in server infrastructure.  
+- **The system shall be deployable on cloud platforms such as Firebase Hosting** to ensure scalable hosting.   
 
 ### 🛠️ Maintainability  
 - **The codebase shall be modular and follow industry best practices** for easy updates and maintenance.  

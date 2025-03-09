@@ -35,15 +35,15 @@ Security was another challenge.
 - 👥 **Users** wouldnt want frequent logins or MFA disrupting their experience.  
 
 📌 **Problem:** How do I make the app secure without annoying users?  
-✅ **Solution:** Security should be **optional when possible**—for example, making MFA a choice rather than a requirement.  
+✅ **Solution:** Security should be **optional when possible**, for example, making MFA a choice rather than a requirement.  
 
 ---
 
 ## 🔹 4. Feature Scope Creep  
 Stakeholders had many feature requests:  
-- 🎞️ **Content curators** wanted **movie recommendations**.  
-- 🛡️ **Admins** wanted **moderation tools**.  
-- 📺 **Users** wanted **streaming availability tracking**.  
+- 🎞️ **Content creators** would want **movie recommendations**.  
+- 🛡️ **Admins** would want **moderation tools**.  
+- 📺 **Users** would want **streaming availability tracking**.  
   
 Adding everything at once would have **overcomplicated the MVP**.  
 

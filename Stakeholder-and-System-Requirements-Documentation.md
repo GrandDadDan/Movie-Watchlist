@@ -164,7 +164,7 @@
 
 ---
 
-## 1️⃣1️⃣ Real-Time Updates  
+## 1️⃣.1️⃣ Real-Time Updates  
 - **Requirement:** The system shall update user watchlists and movie details in real time.  
 - **Acceptance Criteria:**  
   - Changes made by a user must reflect instantly without requiring a page refresh.  
@@ -172,7 +172,7 @@
 
 ---
 
-## 1️⃣2️⃣ Error Handling & Notifications  
+## 1️⃣.2️⃣ Error Handling & Notifications  
 - **Requirement:** The system shall provide meaningful error messages and notifications for failed actions.  
 - **Acceptance Criteria:**  
   - Network errors must display a user-friendly message.  

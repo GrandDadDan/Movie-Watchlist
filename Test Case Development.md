@@ -38,3 +38,6 @@
 | TC012        | NF-004         | Verify encryption of user data                       | 1. Register or log in as a user. 2. Inspect the database or network traffic for sensitive data. | User data, including passwords, should be encrypted using AES-256. |                |                    |
 
 ---
+
+Usability Test: Ensures that the system allows smooth switching between dark and light mode (important for user experience).
+Performance Test: Simulates 1,000 concurrent users to check if the system's response time for search results stays within the expected 2 seconds.

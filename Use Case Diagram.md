@@ -1,3 +1,5 @@
+<h1>Use Case Diagram</h1>
+
 ```mermaid
 
 graph LR;
@@ -57,3 +59,5 @@ graph LR;
     class UserAuthentication,ManageWatchlists,SearchDiscoverMovies,ViewMovieDetails,MarkMoviesWatched,ReceiveMovieRecommendations,CheckStreamingAvailability,AdministerSystem usecase;
 
 ```
+
+

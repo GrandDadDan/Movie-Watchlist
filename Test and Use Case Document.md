@@ -52,8 +52,8 @@ graph LR;
     InvestorProjectEvaluator -->|Reviews| ReceiveMovieRecommendations
 
     %% Styling
-    classDef actor fill:#87CEEB,stroke:#333,stroke-width:2px;
-    classDef usecase fill:#F9F9F9,stroke:#333,stroke-width:2px;
+    classDef actor fill:#000000,stroke:#333,stroke-width:2px;
+    classDef usecase fill:#000000,stroke:#333,stroke-width:2px;
     
     class User,ContentCreator,StreamingServiceUser,SystemAdministrator,APIProvider,InvestorProjectEvaluator actor;
     class UserAuthentication,ManageWatchlists,SearchDiscoverMovies,ViewMovieDetails,MarkMoviesWatched,ReceiveMovieRecommendations,CheckStreamingAvailability,AdministerSystem usecase;

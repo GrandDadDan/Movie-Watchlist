@@ -250,4 +250,4 @@ Handling alternative and exceptional flows was another area where I faced challe
 
 Lastly, I encountered the challenge of managing changing requirements. As I developed my use cases and test cases, I realized that some requirements needed to be updated or refined. This showed me why flexibility is crucial in software development. Agile methodologies and iterative testing can help teams adjust as requirements evolve.
 
-Overall, this experience taught me that translating requirements into use cases and test cases is not just a technical task—it requires critical thinking, communication, and adaptability. By addressing these challenges, I gained a better understanding of how to build a system that meets user needs while ensuring reliability and usability.
+Overall, this experience taught me that translating requirements into use cases and test cases is not just a technical task, it requires critical thinking, communication, and adaptability. By addressing these challenges, I gained a better understanding of how to build a system that meets user needs while ensuring reliability and usability.

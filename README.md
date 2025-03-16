@@ -5,3 +5,7 @@
 
  - [SPECIFICATION](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/SPECIFICATION.md)
  - [ARCHITECTURE](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/ARCHITECTURE.md)
+ - [ARCHITECTURE](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/ARCHITECTURE.md)
+ - [ARCHITECTURE](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/ARCHITECTURE.md)
+ - [ARCHITECTURE](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/ARCHITECTURE.md)
+ - [ARCHITECTURE](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/ARCHITECTURE.md)

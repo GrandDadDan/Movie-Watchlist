@@ -205,16 +205,16 @@ graph LR;
 **Postcondition:** The system is updated, and the administrator's changes are reflected.  
 
 ### Basic Flow:
-1. System Administrator logs in to the administration panel.  
+1. The System Administrator logs in to the administration panel.  
 2. Administrator selects a management task (e.g., add/remove users, update database).  
-3. System processes the administrator's request.  
-4. System displays confirmation of the completed action.  
+3. The system processes the administrator's request.  
+4. The system displays confirmation of the completed action.  
 
 ### Alternative Flows:
 - If the administrator attempts an unauthorized action, the system shows an error message: "You do not have permission to perform this action."
 
 
-# Test Case Development
+# Test Case Development Functional Requirements
 
 | Test Case ID | Requirement ID | Description                                          | Steps                                                                                  | Expected Result                                            | Actual Result | Status (Pass/Fail) |
 |--------------|----------------|------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------|----------------|--------------------|
@@ -229,5 +229,5 @@ graph LR;
 
 ### Non-Functional Test Cases
 
-- Usability Test: Ensures that the system allows smooth switching between dark and light mode (important for user experience).
+- Usability Test: Ensures the system allows smooth switching between dark and light mode (important for user experience).
 - Performance Test: Simulates 1,000 concurrent users to check if the system's response time for search results stays within the expected 2 seconds.

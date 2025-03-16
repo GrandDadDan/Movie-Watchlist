@@ -59,7 +59,9 @@ graph LR;
     class UserAuthentication,ManageWatchlists,SearchDiscoverMovies,ViewMovieDetails,MarkMoviesWatched,ReceiveMovieRecommendations,CheckStreamingAvailability,AdministerSystem usecase;
 
 ```
-<h1>Actors and Their Roles</h1>
+---
+
+# Actors and Their Roles
 
 - The User actor can initiate the User Authentication use case, allowing them to sign up, log in, and log out. This ensures a secure and personalized experience while addressing the Investor/Project Evaluator’s concern about user engagement and security.
 
@@ -84,6 +86,8 @@ graph LR;
 - The API Provider actor supports the Search & Discover Movies, View Movie Details, and Check Streaming Availability use cases, ensuring users have access to real-time, accurate movie information.
 
 - The Investor/Project Evaluator actor reviews the Manage Watchlists, User Authentication, and Receive Movie Recommendations use cases, assessing the platform's feasibility, engagement, and user retention potential.
+
+---
 
 # 2️⃣ Use Case Specifications
 
@@ -213,6 +217,7 @@ graph LR;
 ### Alternative Flows:
 - If the administrator attempts an unauthorized action, the system shows an error message: "You do not have permission to perform this action."
 
+---
 
 # 3️⃣ Test Case Development
 
@@ -233,6 +238,8 @@ graph LR;
 
 - Usability Test: Ensures the system allows smooth switching between dark and light mode (important for user experience).
 - Performance Test: Simulates 1,000 concurrent users to check if the system's response time for search results stays within the expected 2 seconds.
+
+---
 
 # 4️⃣Reflection
 

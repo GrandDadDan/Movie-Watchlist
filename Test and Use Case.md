@@ -1,4 +1,4 @@
-<h1>Use Case Diagram</h1>
+<h1>1️⃣ Use Case Diagram</h1>
 
 ```mermaid
 
@@ -85,7 +85,7 @@ graph LR;
 
 - The Investor/Project Evaluator actor reviews the Manage Watchlists, User Authentication, and Receive Movie Recommendations use cases, assessing the platform's feasibility, engagement, and user retention potential.
 
-# Use Case Specifications
+# 2️⃣ Use Case Specifications
 
 ## 1. User Authentication
 **Actor:** User  
@@ -214,7 +214,9 @@ graph LR;
 - If the administrator attempts an unauthorized action, the system shows an error message: "You do not have permission to perform this action."
 
 
-# Test Case Development Functional Requirements
+# 3️⃣ Test Case Development
+
+<h2>Functional Requirements Test Cases</h2>
 
 | Test Case ID | Requirement ID | Description                                          | Steps                                                                                  | Expected Result                                            | Actual Result | Status (Pass/Fail) |
 |--------------|----------------|------------------------------------------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------|----------------|--------------------|
@@ -227,7 +229,7 @@ graph LR;
 | TC007        | FR-007         | User views movie details                             | 1. Log in to the system. 2. Select a movie from the watchlist. 3. Click on the movie title. | Movie details (cast, description, etc.) are displayed.     |                |                    |
 | TC008        | FR-008         | System responds to movie data request within 500 milliseconds | 1. Log in to the system. 2. Enter a movie title in the search bar. 3. Click "Search."   | The API responds with movie data in ≤ 500 milliseconds.    |                |                    |
 
-### Non-Functional Test Cases
+## Non-Functional Test Cases
 
 - Usability Test: Ensures the system allows smooth switching between dark and light mode (important for user experience).
 - Performance Test: Simulates 1,000 concurrent users to check if the system's response time for search results stays within the expected 2 seconds.

@@ -233,3 +233,21 @@ graph LR;
 
 - Usability Test: Ensures the system allows smooth switching between dark and light mode (important for user experience).
 - Performance Test: Simulates 1,000 concurrent users to check if the system's response time for search results stays within the expected 2 seconds.
+
+# 4️⃣Reflection
+
+Translating software requirements into use cases and test cases is a crucial but often challenging process. As I worked through this, I realized that the process is not as straightforward as it initially seemed. Many challenges arise, particularly in interpreting vague requirements, ensuring complete user interactions, and balancing functional and non-functional needs.
+
+One of the biggest challenges I faced was dealing with ambiguity in requirements. Some requirements were too broad or lacked specific details, making it difficult to determine how they should be implemented or tested. For example, a requirement like “The system should provide movie recommendations” leaves a lot of unanswered questions. Should recommendations be based on past watch history, ratings, or something else? Without clear criteria, writing meaningful test cases becomes difficult. To address this, I learned that it’s important to clarify requirements with stakeholders, document assumptions, and refine requirements iteratively.
+
+Another difficulty was identifying all possible ways users might interact with the system. While some interactions are obvious, such as searching for a movie or adding one to a watchlist, others are less predictable. Users might use different devices, input unexpected search terms, or take actions I hadn’t originally considered. For instance, I had to think about whether users should be able to search using special characters or partial movie names. This made me realize the importance of user research and scenario-based testing to cover a broader range of interactions.
+
+Balancing functional and non-functional requirements was another challenge. Functional requirements are usually easier to test since they focus on specific features. However, non-functional requirements, like system performance, usability, or security, are harder to measure. A requirement like “The system should provide a fast search experience” doesn’t define what “fast” means. To solve this, I had to convert vague descriptions into measurable criteria, such as “Search results should load within 2 seconds.” This experience showed me how important it is to define testable benchmarks for non-functional requirements.
+
+Additionally, I found that some requirements were difficult to test directly. For example, a requirement like “The system should be user-friendly” is subjective. What one person finds user-friendly, another might not. To address this, I realized the importance of breaking down such requirements into measurable factors, like how easily users complete tasks or how much time they spend searching for a feature.
+
+Handling alternative and exceptional flows was another area where I faced challenges. While it was easy to define the basic steps of a use case, I also had to consider what happens when things go wrong. What if the API providing movie data is down? What if a user enters an invalid password too many times? These scenarios required extra test cases to make sure the system responds properly to unexpected situations.
+
+Lastly, I encountered the challenge of managing changing requirements. As I developed my use cases and test cases, I realized that some requirements needed to be updated or refined. This showed me why flexibility is crucial in software development. Agile methodologies and iterative testing can help teams adjust as requirements evolve.
+
+Overall, this experience taught me that translating requirements into use cases and test cases is not just a technical task—it requires critical thinking, communication, and adaptability. By addressing these challenges, I gained a better understanding of how to build a system that meets user needs while ensuring reliability and usability.

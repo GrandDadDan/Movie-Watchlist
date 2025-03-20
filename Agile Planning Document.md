@@ -1,4 +1,6 @@
- ## User Stories  
+# 1️⃣ User Story Creation
+ 
+## User Stories  
 
 | Story ID | User Story | Priority | Acceptance Criteria |
 |----------|------------|----------|---------------------|
@@ -59,6 +61,10 @@
 | **US012** | As a user, I want meaningful error messages so that I can understand and resolve issues quickly. | Must-have | 3 | None |
 | **US013** | As a system admin, I want user data encrypted with AES-256 so that security compliance is met. | Must-have | 5 | US001 |
 | **US014** | As a system admin, I want role-based access control (RBAC) so that only authorized users can perform admin functions. | Must-have | 4 | US001 |
+
+---
+
+# 2️⃣ Product Backlog Creation
 
 ## Justification for Prioritization:
 
@@ -128,7 +134,9 @@
 - **4 (Moderate complexity)**: These are important features that will improve the app’s maintainability, performance, and usability, but they may require less effort than the most critical aspects.
 - **3 (Lower complexity)**: These are user-facing usability features, such as the dark/light mode toggle, which can be implemented relatively quickly.
 
-# Sprint Planning
+---
+
+# 3️⃣ Sprint Planning
 
 ## Sprint Goal Statement:
 The goal for this 2-week sprint is to implement core features for user authentication, movie search, and movie details functionality. This will provide the foundation for users to securely access and interact with the app, allowing them to search for movies, view detailed information, and manage their watchlists, thus contributing to the MVP by delivering essential features for the app's functionality.
@@ -146,3 +154,20 @@ The goal for this 2-week sprint is to implement core features for user authentic
 
 ## Sprint Goal Justification:
 The selected user stories focus on delivering the MVP's core features. By completing the user authentication system, movie search functionality, and movie details page, we will ensure that users can securely log in and search for content. This is foundational for the app’s usability and sets up subsequent features such as watchlist management and streaming service integration. The sprint goal directly impacts the core usability and security of the app, making it essential for the MVP.
+
+---
+
+# 4️⃣ Reflection
+
+Reflecting on my experience applying Agile methodologies to my project, I’ve faced several challenges in prioritization, estimation, and aligning Agile with stakeholder needs. Since I am the only real stakeholder at this point, the struggle has been mostly internal—balancing my expectations, workload, and understanding of Agile practices.
+
+One of the biggest challenges I encountered was prioritization. With so many features I wanted to implement in my Movie Watchlist app, deciding what to focus on first was overwhelming. Initially, everything felt important. Features like user authentication, personalized recommendations, and real-time updates all seemed essential. However, when I tried to implement them simultaneously, I quickly realized that spreading myself too thin led to inefficiency and frustration. I had to step back and determine the Minimum Viable Product (MVP). It was difficult to let go of certain ideas, but prioritization required me to be realistic about what was feasible in the short term. Through trial and error, I learned to break down my work into manageable chunks and focus on delivering value in increments rather than aiming for perfection all at once.
+
+Estimation was another major struggle. Coming from an academic background, I was used to deadlines being set externally, whether by lecturers or project guidelines. In Agile, estimation required me to predict how long tasks would take based on complexity and effort. This was tough because I often underestimated the time needed for debugging, researching solutions, and refining my code. Tasks I thought would take a few hours ended up stretching into days, especially when I encountered unexpected technical challenges. I experimented with different estimation techniques, such as story points and time-boxing, but I still found it difficult to gauge effort accurately. I realized that estimation is a skill that improves with experience, and instead of feeling discouraged, I started tracking my work more carefully to learn from past mistakes.
+
+Aligning Agile with stakeholder needs—when I am both the developer and the stakeholder—presented a unique challenge. At times, I found myself resisting my own decisions. I wanted to move fast, but I also wanted a polished product. This internal conflict made it difficult to adapt to change, which is a core Agile principle. Sometimes, I would plan to implement a feature in a certain way, only to realize midway that a different approach would be better. Initially, I struggled with accepting that change was okay. I had to remind myself that Agile is about being flexible and iterative, not about rigid planning. As I progressed, I became more comfortable with adjusting my backlog and shifting priorities when needed.
+
+Overall, applying Agile as a university student working independently has been both rewarding and challenging. I’ve had to confront my own resistance to change, improve my ability to estimate work, and make tough prioritization decisions. While I’m still refining my approach, these challenges have helped me develop a more structured and adaptive mindset—something that will undoubtedly benefit me in future projects and professional work.
+
+
+

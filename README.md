@@ -9,4 +9,4 @@
  - [STAKEHOLDER ANALYSIS TABLE](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Stakeholder-Analysis-Table.md)
  - [TEST AND USE CASE DOCUMENT](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Test%20and%20Use%20Case%20Document.md)
  - [REFLECTION (ASSIGNMENT 4)](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/ARCHITECTURE.md)
- - [AGILE PLANNING DOCUMENT]()
+ - [AGILE PLANNING DOCUMENT](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Agile%20Planning%20Document.md)

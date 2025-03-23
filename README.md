@@ -19,7 +19,7 @@
 
  <h1>Agile User Stories, Backlog, and Sprint Planning for the System</h1>
 
- - [AGILE PLANNING DOCUMENT]()
+ - [AGILE PLANNING DOCUMENT](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_6/AGILE%20PLANNING%20DOCUMENT.md)
  - [USER STORIES TABLE]()
  - [PRODUCT BACKLOG]()
  - [SPRINT PLAN]()

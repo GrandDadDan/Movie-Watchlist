@@ -9,7 +9,7 @@
 ## Sprint Goal Statement:
 The goal for this 2-week sprint is to implement core features for user authentication, movie search, and movie details functionality. This will provide the foundation for users to securely access and interact with the app, allowing them to search for movies, view detailed information, and manage their watchlists, thus contributing to the MVP by delivering essential features for the app's functionality.
 
-Sprint Plan in Markdown:
+# Sprint Plan in Markdown:
 
 ## Sprint Backlog
 

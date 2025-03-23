@@ -5,7 +5,7 @@
 <p>The Movie Watchlist app is a web-based application that helps users manage and track movies they want to watch. Users can add movies to a personalized watchlist, mark them as watched, and categorize them by genre or priority. The app will also feature user authentication, real-time updates, and optional movie recommendations.</p>
 
  - [SPECIFICATION](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_3/SPECIFICATIONS.md)
- - [ARCHITECTURE](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/ARCHITECTURE.md)
+ - [ARCHITECTURE](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_3/ARCHITECTURE.md)
 
 <h1>Stakeholder and System Requirement Documentation for the System</h1>
 

@@ -22,5 +22,5 @@
  - [AGILE PLANNING DOCUMENT](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_6/AGILE%20PLANNING%20DOCUMENT.md)
  - [USER STORIES TABLE]()
  - [PRODUCT BACKLOG](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_6/PRODUCT%20BACKLOG.md)
- - [SPRINT PLAN]()
+ - [SPRINT PLAN](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_6/SPRINT%20PLAN.md)
  - [REFLECTION]()

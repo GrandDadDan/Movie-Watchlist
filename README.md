@@ -36,7 +36,7 @@
 <h1>GitHub Project Templates and Kanban Board Implementation 
 Objective</h1>
 
-- [Template Analysis and Selection]()
+- [Template Analysis and Selection](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/Template%20Analysis%20and%20Selection.md)
 - [Custom Kanban Board Creation]()
-- [Screenshot and Template Justification]()
+- [Screenshot and Kanban Iterative Development Board]()
 - [Reflection](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/Reflection.md)

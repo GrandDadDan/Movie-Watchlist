@@ -32,3 +32,11 @@
  - [PRODUCT BACKLOG](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_6/PRODUCT%20BACKLOG.md)
  - [SPRINT PLAN](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_6/SPRINT%20PLAN.md)
  - [REFLECTION](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_6/REFLECTION.md)
+
+<h1>GitHub Project Templates and Kanban Board Implementation 
+Objective</h1>
+
+- [Template Analysis and Selection]()
+- [Custom Kanban Board Creation]()
+- [Screenshot and Template Justification]()
+- [Reflection]()

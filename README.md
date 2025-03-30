@@ -39,4 +39,4 @@ Objective</h1>
 - [Template Analysis and Selection]()
 - [Custom Kanban Board Creation]()
 - [Screenshot and Template Justification]()
-- [Reflection]()
+- [Reflection](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/Reflection.md)

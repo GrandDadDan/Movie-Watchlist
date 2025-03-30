@@ -33,8 +33,7 @@
  - [SPRINT PLAN](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_6/SPRINT%20PLAN.md)
  - [REFLECTION](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_6/REFLECTION.md)
 
-<h1>GitHub Project Templates and Kanban Board Implementation 
-Objective</h1>
+<h1>GitHub Project Templates and Kanban Board Implementation For the System</h1>
 
 - [Template Analysis and Selection](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/Template%20Analysis%20and%20Selection.md)
 - [Custom Kanban Board Creation](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/%20Kanban%20Board%20Explanation.md)

@@ -37,6 +37,6 @@
 Objective</h1>
 
 - [Template Analysis and Selection](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/Template%20Analysis%20and%20Selection.md)
-- [Custom Kanban Board Creation](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/Custom%20Kanban%20Board%20Creation.md)
-- [Screenshot and Kanban Iterative Development Board]()
+- [Custom Kanban Board Creation](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/%20Kanban%20Board%20Explanation.md)
+- [Screenshot and Kanban Iterative Development Board](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/Custom%20Kanban%20Board%20Creation.md)
 - [Reflection](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/Reflection.md)

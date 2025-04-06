@@ -14,8 +14,6 @@
 
 ## 🔄 System Workflow Diagrams
 
-We have modeled 8 key user workflows using UML Activity Diagrams to visualize how the system behaves for core features.
-
 Each diagram maps to a specific functional requirement and user story to ensure full Agile traceability:
 
 - **User Registration** → FR-001 / US001

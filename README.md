@@ -43,6 +43,6 @@
 <h1>Object State Modeling and Activity Workflow Modeling  For the System</h1>
 
 - [State Transition Diagrams]()
-- [Activity Diagrams]()
+- [Activity Diagrams](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_8/Activity%20Diagrams.md)
 - [Explanations]()
 - [Reflection]()

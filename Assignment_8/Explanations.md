@@ -27,4 +27,4 @@ Each diagram maps to a specific functional requirement and user story to ensure 
 - **Check Streaming Availability** → FR-006 / US007
 - **Generate Recommendations** → FR-008 / US009
 
-📁 All activity diagrams can be found in the [Activity Workflows](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_8/Activity%20Diagrams.md) document.
+📁 All activity diagrams can be found in the [Activity Diagrams](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_8/Activity%20Diagrams.md) document.

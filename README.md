@@ -44,5 +44,5 @@
 
 - [State Transition Diagrams](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_8/State%20Transition%20Diagrams.md)
 - [Activity Diagrams](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_8/Activity%20Diagrams.md)
-- [Explanations]()
+- [Explanations](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_8/Explanations.md)
 - [Reflection]()

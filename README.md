@@ -39,3 +39,10 @@
 - [Custom Kanban Board Creation](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/%20Kanban%20Board%20Explanation.md)
 - [Screenshot and Kanban Iterative Development Board](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/Custom%20Kanban%20Board%20Creation.md)
 - [Reflection](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/Reflection.md)
+
+<h1>Object State Modeling and Activity Workflow Modeling  For the System</h1>
+
+- [State Transition Diagrams]()
+- [Activity Diagrams]()
+- [Explanations]()
+- [Reflection]()

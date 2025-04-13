@@ -56,5 +56,5 @@
 <h1>Domain Modeling and Class Diagram Development for the System</h1>
 
 - [Domain Model Documentation](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_9/Domain_Model_Documentation.md)
-- [Class Diagram in Mermaid.js]()
-- [Reflection]()
+- [Class Diagram in Mermaid.js](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_9/Domain_Model_Documentation.md)
+- [Reflection](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_9/Reflection.md)

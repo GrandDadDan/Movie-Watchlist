@@ -33,16 +33,28 @@
  - [SPRINT PLAN](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_6/SPRINT%20PLAN.md)
  - [REFLECTION](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_6/REFLECTION.md)
 
-<h1>GitHub Project Templates and Kanban Board Implementation For the System</h1>
+---
+
+<h1>GitHub Project Templates and Kanban Board Implementation for the System</h1>
 
 - [Template Analysis and Selection](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/Template%20Analysis%20and%20Selection.md)
 - [Custom Kanban Board Creation](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/%20Kanban%20Board%20Explanation.md)
 - [Screenshot and Kanban Iterative Development Board](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/Custom%20Kanban%20Board%20Creation.md)
 - [Reflection](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_7/Reflection.md)
 
-<h1>Object State Modeling and Activity Workflow Modeling  For the System</h1>
+---
+
+<h1>Object State Modeling and Activity Workflow Modeling for the System</h1>
 
 - [State Transition Diagrams](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_8/State%20Transition%20Diagrams.md)
 - [Activity Diagrams](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_8/Activity%20Diagrams.md)
 - [Explanations](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_8/Explanations.md)
 - [Reflection](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_8/Reflection.md)
+
+---
+
+<h1>Domain Modeling and Class Diagram Development for the System</h1>
+
+- [Domain Model Documentation]()
+- [Class Diagram in Mermaid.js]()
+- [Reflection]()

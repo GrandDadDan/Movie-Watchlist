@@ -25,3 +25,90 @@
 - Only **Admins** can delete users or movies from the database.
 - A **user** can only submit one **review** per movie.
 
+---
+
+# Class Diagram In Mermaid
+
+```mermaid
+
+classDiagram
+class User {
+  -userId: String
+  -name: String
+  -email: String
+  -passwordHash: String
+  -status: String
+  +register()
+  +login()
+  +resetPassword()
+  +updateProfile()
+}
+
+class Movie {
+  -movieId: String
+  -title: String
+  -genre: String
+  -releaseDate: Date
+  -rating: Float
+  -posterURL: String
+  +fetchDetails()
+  +checkAvailability()
+}
+
+class Watchlist {
+  -watchlistId: String
+  -name: String
+  -isShared: Boolean
+  -visibility: String
+  +addMovie()
+  +removeMovie()
+  +shareLink()
+  +categorizeMovie()
+}
+
+class Recommendation {
+  -recommendationId: String
+  -generatedDate: Date
+  -movieList: List<Movie>
+  +generateRecommendations()
+  +updateSuggestions()
+}
+
+class StreamingInfo {
+  -streamingId: String
+  -platform: String
+  -url: String
+  -lastUpdated: Date
+  +fetchAvailability()
+  +updateStatus()
+}
+
+class Review {
+  -reviewId: String
+  -rating: Float
+  -comment: String
+  -reviewDate: Date
+  +submitReview()
+  +editReview()
+  +deleteReview()
+}
+
+class Admin {
+  -adminId: String
+  -name: String
+  -role: String
+  +manageUsers()
+  +manageContent()
+  +auditActivity()
+}
+
+User "1" -- "0..*" Watchlist : creates
+User "1" -- "0..*" Review : writes
+User "1" -- "0..*" Recommendation : receives
+Watchlist "1" -- "0..*" Movie : contains
+Movie "1" --> "0..1" StreamingInfo : has
+Movie "1" --> "0..*" Review : receives
+Admin <|-- User : inherits
+Recommendation "1" -- "0..*" Movie : includes
+
+```

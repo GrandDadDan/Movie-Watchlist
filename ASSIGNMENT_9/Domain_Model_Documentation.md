@@ -27,7 +27,7 @@
 
 ---
 
-# Class Diagram In Mermaid
+# 🎯 Class Diagram In Mermaid
 
 ```mermaid
 

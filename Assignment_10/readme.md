@@ -10,3 +10,17 @@ This project is implemented in **JavaScript (ES6)** because it is widely used fo
 - Future files will include creational design pattern examples and unit tests.
 
 This setup prepares the app for applying creational patterns and clean testing using tools like **Jest** or **Mocha**.
+
+## 🧱 Creational Patterns
+
+This app implements all major creational design patterns for demonstration:
+
+- **Simple Factory**: `MovieFactory` returns objects based on genre, centralizing instantiation.
+- **Factory Method**: `AuthFactoryMethod` delegates authentication logic to handlers.
+- **Abstract Factory**: `StreamingServiceFactory` returns related platform classes.
+- **Builder**: `WatchlistBuilder` constructs watchlists step-by-step with optional fields.
+- **Prototype**: `MoviePrototype` allows cloning movie templates for performance.
+- **Singleton**: `DatabaseConnection` ensures a single global instance for shared queries.
+
+All pattern implementations are found in the `/creational_patterns` directory.
+

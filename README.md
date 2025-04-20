@@ -64,3 +64,4 @@
 <h1>From Class Diagrams to Code with All Creational Patterns</h1>
 
 - [Source Code](https://github.com/GrandDadDan/Movie-Watchlist/tree/main/Assignment_10/src)
+- [Creational Patterns](https://github.com/GrandDadDan/Movie-Watchlist/tree/main/Assignment_10/creational_patterns)

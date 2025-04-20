@@ -36,6 +36,6 @@ All six creational patterns are tested using **Jest**. Each test file is in the 
 - Attribute verification
 - Edge cases (e.g., invalid factory type, singleton reinitialization)
 
-### Run Tests
-```bash
-npm test
+---
+
+![alt text](image.png)

@@ -3,16 +3,16 @@ class DatabaseConnection {
     if (DatabaseConnection.instance) {
       return DatabaseConnection.instance;
     }
-    this.connected = true;
+    this.connection = 'Connected to database';
     DatabaseConnection.instance = this;
   }
 
-  query(sql) {
-    return `Executing: ${sql}`;
+  getConnection() {
+    return this.connection;
   }
 }
 
-const db = new DatabaseConnection();
-Object.freeze(db); // optional hard singleton
+const dbInstance = new DatabaseConnection();
 
-export default db;
+export { DatabaseConnection }; 
+export default dbInstance;     

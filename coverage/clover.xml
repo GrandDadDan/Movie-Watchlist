@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1745174915910" clover="3.2.0">
+  <project timestamp="1745174915910" name="All files">
+    <metrics statements="42" coveredstatements="33" conditionals="12" coveredconditionals="7" methods="21" coveredmethods="16" elements="75" coveredelements="56" complexity="0" loc="42" ncloc="42" packages="6" files="6" classes="6"/>
+    <package name="abstract_factory">
+      <metrics statements="6" coveredstatements="3" conditionals="3" coveredconditionals="1" methods="3" coveredmethods="2"/>
+      <file name="StreamingServiceFactory.js" path="C:\Users\admin\Documents\CPUT 2025\Software Engineering\New Project\Movie-Watchlist\Assignment_10\creational_patterns\abstract_factory\StreamingServiceFactory.js">
+        <metrics statements="6" coveredstatements="3" conditionals="3" coveredconditionals="1" methods="3" coveredmethods="2"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="15" count="1" type="cond" truecount="1" falsecount="2"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="builder">
+      <metrics statements="11" coveredstatements="11" conditionals="1" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="WatchlistBuilder.js" path="C:\Users\admin\Documents\CPUT 2025\Software Engineering\New Project\Movie-Watchlist\Assignment_10\creational_patterns\builder\WatchlistBuilder.js">
+        <metrics statements="11" coveredstatements="11" conditionals="1" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="factory_method">
+      <metrics statements="7" coveredstatements="4" conditionals="3" coveredconditionals="2" methods="4" coveredmethods="2"/>
+      <file name="AuthFactoryMethod.js" path="C:\Users\admin\Documents\CPUT 2025\Software Engineering\New Project\Movie-Watchlist\Assignment_10\creational_patterns\factory_method\AuthFactoryMethod.js">
+        <metrics statements="7" coveredstatements="4" conditionals="3" coveredconditionals="2" methods="4" coveredmethods="2"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="21" count="2" type="cond" truecount="2" falsecount="1"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="prototype">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="MoviePrototype.js" path="C:\Users\admin\Documents\CPUT 2025\Software Engineering\New Project\Movie-Watchlist\Assignment_10\creational_patterns\prototype\MoviePrototype.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="simple_factory">
+      <metrics statements="8" coveredstatements="6" conditionals="3" coveredconditionals="2" methods="4" coveredmethods="3"/>
+      <file name="MovieFactory.js" path="C:\Users\admin\Documents\CPUT 2025\Software Engineering\New Project\Movie-Watchlist\Assignment_10\creational_patterns\simple_factory\MovieFactory.js">
+        <metrics statements="8" coveredstatements="6" conditionals="3" coveredconditionals="2" methods="4" coveredmethods="3"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="22" count="2" type="cond" truecount="2" falsecount="1"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="singleton">
+      <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="1"/>
+      <file name="DatabaseConnection.js" path="C:\Users\admin\Documents\CPUT 2025\Software Engineering\New Project\Movie-Watchlist\Assignment_10\creational_patterns\singleton\DatabaseConnection.js">
+        <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="1"/>
+        <line num="3" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

@@ -11,6 +11,8 @@ This project is implemented in **JavaScript (ES6)** because it is widely used fo
 
 This setup prepares the app for applying creational patterns and clean testing using tools like **Jest** or **Mocha**.
 
+---
+
 ## 🧱 Creational Patterns
 
 This app implements all major creational design patterns for demonstration:
@@ -24,3 +26,16 @@ This app implements all major creational design patterns for demonstration:
 
 All pattern implementations are found in the `/creational_patterns` directory.
 
+---
+
+## ✅ Unit Testing & Coverage
+
+All six creational patterns are tested using **Jest**. Each test file is in the `/tests` directory and covers:
+
+- Correct object instantiation
+- Attribute verification
+- Edge cases (e.g., invalid factory type, singleton reinitialization)
+
+### Run Tests
+```bash
+npm test

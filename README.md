@@ -72,7 +72,8 @@
 
 <h1> Implementing a Persistence Repository Layer</h1>
 
-- [Repository Interface Design]()
+- [Repository Interface Design](https://github.com/GrandDadDan/Movie-Watchlist/tree/main/Assignment_11/repositories/interfaces)
 - [In Memory Implementation]()
 - [Abstraction Mechanism]()
 - [Future Proofing]()
+- [Readme]()

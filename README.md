@@ -72,5 +72,7 @@
 
 <h1> Implementing a Persistence Repository Layer</h1>
 
-- [Interfaces Source Code]()
-- []()
+- [Repository Interface Design]()
+- [In Memory Implementation]()
+- [Abstraction Mechanism]()
+- [Future Proofing]()

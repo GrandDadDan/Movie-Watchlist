@@ -1,26 +1,22 @@
-import MovieRepository from '../interfaces/MovieRepository.js';
-
-class InMemoryMovieRepository extends MovieRepository {
+export class InMemoryMovieRepository {
   constructor() {
-    super();
-    this._storage = new Map();
+    this.movies = new Map();
   }
 
   save(movie) {
-    this._storage.set(movie.movieId, movie);
+    this.movies.set(movie.id, movie);
+    return movie;
   }
 
-  findById(movieId) {
-    return this._storage.get(movieId) || null;
+  findById(id) {
+    return this.movies.get(id);
   }
 
   findAll() {
-    return Array.from(this._storage.values());
+    return Array.from(this.movies.values());
   }
 
-  delete(movieId) {
-    this._storage.delete(movieId);
+  delete(id) {
+    this.movies.delete(id);
   }
 }
-
-export default InMemoryMovieRepository;

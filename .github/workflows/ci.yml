@@ -1,9 +1,9 @@
-name: CI Pipeline
+name: CI/CD Pipeline
 
 on:
   push:
     branches:
-      - '**'    # Run on pushes to any branch
+      - '**'    # Run on push to any branch
   pull_request:
     branches:
       - main    # Run on PRs targeting main
@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'   # or your Node.js version
+          node-version: '18'
 
       - name: Install Dependencies
         run: npm install
@@ -27,7 +27,7 @@ jobs:
       - name: Run Tests
         run: npm test
 
-      - name: Archive Test Results
+      - name: Upload Test Results
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -35,3 +35,25 @@ jobs:
           path: |
             coverage
             test-results
+
+  release:
+    needs: build-and-test
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Install zip
+        run: sudo apt-get update && sudo apt-get install zip -y
+
+      - name: Package App
+        run: |
+          zip -r movie-watchlist-release.zip . -x "**/node_modules/**" "**/coverage/**" "**/.git/**" "**/test-results/**"
+
+      - name: Upload Release Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: movie-watchlist-release
+          path: movie-watchlist-release.zip

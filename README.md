@@ -78,3 +78,14 @@
 - [Future Proofing](https://github.com/GrandDadDan/Movie-Watchlist/tree/main/Assignment_11/repositories/filesystem)
 - [Tests](https://github.com/GrandDadDan/Movie-Watchlist/tree/main/Assignment_11/tests/repositories)
 - [Readme](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_11/ReadMe.md)
+
+
+<h1> Implementing CI/CD with GitHub Actions</h1>
+
+- Branch Protection:
+  [Screenshot of rules and Protection.md](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/Assignment_13/PROTECTION.md)
+- CI Workflow:
+  [ci.yml](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/.github/workflows/ci.yml)
+  [Test Results](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/.github/workflows/Test%20Result.md)
+- [CD Workflow](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/.github/workflows/ci.yml)
+- [Artefact Generation](https://github.com/GrandDadDan/Movie-Watchlist/blob/main/.github/workflows/Artifact%20Generation.md)

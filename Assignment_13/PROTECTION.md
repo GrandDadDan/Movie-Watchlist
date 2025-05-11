@@ -19,3 +19,7 @@ These rules prevent direct pushing to the `main` branch. Instead, all changes mu
 - Reduces bugs in the `main` branch.
 - Encourages team collaboration and peer review.
 - Protects production-ready code from accidental errors.
+
+# Screenshot
+
+![image](https://github.com/user-attachments/assets/b687b655-e5a6-4cf9-bd32-61df5728ad6b)
